@@ -1,4 +1,4 @@
-# LC–GC Modulation Dataset
+# LC–GC Modulation Dataset & analysis
 
 ## Overview
 
@@ -8,7 +8,6 @@ Each dataset corresponds to a **separate experiment**, defined by:
 - a specific **sensory attribute** (e.g., palatability, mixture ratio, intensity)
 - a specific **LC stimulation pattern** (e.g., phasic, tonic)
 
-Neural activity was recorded in GC and aligned to taste delivery.
 
 ## Data Structure
 
